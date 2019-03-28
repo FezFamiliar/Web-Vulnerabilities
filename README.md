@@ -4,14 +4,19 @@ In this repo I will try to cover everything about Web Vulnerabilities. There are
 
 This repo is developed gradually, i will add things along the way. I am currently working on the [hacker101](https://www.hacker101.com) CTFs.
 
-* `SQL Injection`: ⋅⋅* **Blind SQL Injection**
-                 ..* **Error Based SQL Injection**
-                 ..* **Time Based SQL Injection**
+* `SQL Injection`: 
+
+     &nbsp;&nbsp;&nbsp; 1. **Blind SQL Injection**
+     
+     &nbsp;&nbsp;&nbsp; 2. **Error Based SQL Injection**
+     
+     &nbsp;&nbsp;&nbsp; 3. **Time Based SQL Injection**
+     
+     &nbsp;&nbsp;&nbsp; 4. **UNION Based SQL Injection**
 
 
 
 
-* `UNION Based SQL Injection`
 
 * `Cross Site Scripting (XSS)`
 
@@ -21,11 +26,11 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 * `Path Traversal`
 
-* `Local File Inclusion (LFI)`
+* `File Inclusion (LFI)`:
 
-* `Remote File Inclusion (RFI)`
+     &nbsp;&nbsp;&nbsp; 1. **Remote File Inclusion (RFI)**
 
-* `Remote Code Execution (RCE)`
+     &nbsp;&nbsp;&nbsp; 2. **Remote Code Execution (RCE)**
 
 * `Broken Authentication`
 
