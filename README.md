@@ -48,5 +48,5 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 `b2f5ff47436671b6e533d8dc3614845d` ----- MD5 Hash
 
-`$2y$12$kkRc2xuIGtv5hO4iri08UOnqeQ20bI14M78arJyAv.7J1MFX7MOO.` ----- BCRYPT
+`$2y$12$kkRc2xuIGtv5hO4iri08UOnqeQ20bI14M78arJyAv.7J1MFX7MOO.` ----- BCRYPT Hash
 
