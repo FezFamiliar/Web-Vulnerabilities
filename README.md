@@ -55,3 +55,9 @@ This repo is developed gradually, i will add things along the way. I am currentl
 `67F7BFCF4879A627166F07B0FD31B0ED33438B29` ----- SHA1 Hash
 
 `%2Fhash%2Fge%20%20%2Bner%20ate%20` ---- URL Encoding
+
+
+
+## Useful Number Theory Facts
+
+`If we have few random multiples of n, with large probability their gcd will be equal to n`
