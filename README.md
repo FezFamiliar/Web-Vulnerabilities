@@ -41,3 +41,6 @@ This repo is developed gradually, i will add things along the way. I am currentl
 * `XML External Entities (XEE)`
 
 * `Lightweight Directory Access Protocol (LDAP) Injection`
+
+
+## Recognizing Common Encryption Schemes
