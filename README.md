@@ -11,26 +11,26 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 
 
-*`UNION Based SQL Injection`
+* `UNION Based SQL Injection`
 
-*`Cross Site Scripting (XSS)`
+* `Cross Site Scripting (XSS)`
 
-*`Cross Site Request Forgery (CSRF)`
+* `Cross Site Request Forgery (CSRF)`
 
-*`Server Side Request Forgery (SSRF)`
+* `Server Side Request Forgery (SSRF)`
 
-*`Path Traversal`
+* `Path Traversal`
 
-*`Local File Inclusion (LFI)`
+* `Local File Inclusion (LFI)`
 
-*`Remote File Inclusion (RFI)`
+* `Remote File Inclusion (RFI)`
 
-`Remote Code Execution (RCE)`
+* `Remote Code Execution (RCE)`
 
-`Broken Authentication`
+* `Broken Authentication`
 
-`Sensitive Data Exposure`
+* `Sensitive Data Exposure`
 
-`XML External Entities (XEE)`
+* `XML External Entities (XEE)`
 
-`Lightweight Directory Access Protocol (LDAP) Injection`
+* `Lightweight Directory Access Protocol (LDAP) Injection`
