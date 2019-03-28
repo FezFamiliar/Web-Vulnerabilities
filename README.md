@@ -46,15 +46,15 @@ This repo is developed gradually, i will add things along the way. I am currentl
 ## Recognizing Common Encryption Schemes
 
 
-`b2f5ff47436671b6e533d8dc3614845d` ----- MD5 Hash
+`b2f5ff47436671b6e533d8dc3614845d` -----> MD5 Hash
 
-`$2y$12$kkRc2xuIGtv5hO4iri08UOnqeQ20bI14M78arJyAv.7J1MFX7MOO.` ----- BCRYPT Hash
+`$2y$12$kkRc2xuIGtv5hO4iri08UOnqeQ20bI14M78arJyAv.7J1MFX7MOO.` -----> BCRYPT Hash
 
-`TWFuIGlzIGRpc3Rpbmd1aXNoZWQsIG5vdCBvbmx5IGJ5IGhpcyByZWFzb24sIGJ1dCB==` ----- Base64 Encoding
+`TWFuIGlzIGRpc3Rpbmd1aXNoZWQsIG5vdCBvbmx5IGJ5IGhpcyByZWFzb24sIGJ1dCB==` -----> Base64 Encoding
 
-`67F7BFCF4879A627166F07B0FD31B0ED33438B29` ----- SHA1 Hash
+`67F7BFCF4879A627166F07B0FD31B0ED33438B29` -----> SHA1 Hash
 
-`%2Fhash%2Fge%20%20%2Bner%20ate%20` ---- URL Encoding
+`%2Fhash%2Fge%20%20%2Bner%20ate%20` ----> URL Encoding
 
 
 
