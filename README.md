@@ -51,3 +51,5 @@ This repo is developed gradually, i will add things along the way. I am currentl
 `$2y$12$kkRc2xuIGtv5hO4iri08UOnqeQ20bI14M78arJyAv.7J1MFX7MOO.` ----- BCRYPT Hash
 
 `TWFuIGlzIGRpc3Rpbmd1aXNoZWQsIG5vdCBvbmx5IGJ5IGhpcyByZWFzb24sIGJ1dCB==` ----- Base64 Encoding
+
+`67F7BFCF4879A627166F07B0FD31B0ED33438B29` ----- SHA1 Hash
