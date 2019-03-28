@@ -26,11 +26,13 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 * `Path Traversal`
 
-* `File Inclusion (LFI)`:
+* `File Inclusion`:
 
      &nbsp;&nbsp;&nbsp; 1. **Remote File Inclusion (RFI)**
 
-     &nbsp;&nbsp;&nbsp; 2. **Remote Code Execution (RCE)**
+     &nbsp;&nbsp;&nbsp; 2. **Local File Inclusion (LFI)**
+     
+* `Remote Code Execution (RCE)`
 
 * `Broken Authentication`
 
