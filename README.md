@@ -53,3 +53,5 @@ This repo is developed gradually, i will add things along the way. I am currentl
 `TWFuIGlzIGRpc3Rpbmd1aXNoZWQsIG5vdCBvbmx5IGJ5IGhpcyByZWFzb24sIGJ1dCB==` ----- Base64 Encoding
 
 `67F7BFCF4879A627166F07B0FD31B0ED33438B29` ----- SHA1 Hash
+
+`%2Fhash%2Fge%20%20%2Bner%20ate%20` ---- URL Encoding
