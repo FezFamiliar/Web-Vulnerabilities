@@ -60,4 +60,4 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 ## Useful Number Theory Facts
 
-`If we have a few random multiples of n, with large probability their gcd will be equal to n`
+`If we have a few random multiples of n, with large probability their GCD will be equal to n`
