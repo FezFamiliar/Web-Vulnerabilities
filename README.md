@@ -73,7 +73,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 `Not Found 404` ---> The request file doesn't exist on the server
 
-`Method Not Allowed` ---> Used when a request is made with a method that is not supported for the requested URL. The Allow header should be included in the response to tell the client what methods are allowed on the requested resource.
+`Method Not Allowed 405` ---> Used when a request is made with a method that is not supported for the requested URL. The Allow header should be included in the response to tell the client what methods are allowed on the requested resource.
 
 `Gone 410` ----> Similar to 404, but the server once held the resource.
 
