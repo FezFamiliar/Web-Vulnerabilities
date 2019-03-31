@@ -31,7 +31,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 * `Server Side Request Forgery (SSRF)`
 
-* `Path Traversal`: Basicaly climbing out of the web root and trying to gain unauthorized access to some files.
+* `Path Traversal`:  Climbing out of the web root (by appending '../') and trying to gain unauthorized access to some files.
 
 * `File Inclusion`:
 
