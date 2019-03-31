@@ -20,6 +20,13 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 * `Cross Site Scripting (XSS)`
 
+     &nbsp;&nbsp;&nbsp; 1. **Stored (XSS)**
+     
+     &nbsp;&nbsp;&nbsp; 2. **Reflected (XSS)**
+     
+     &nbsp;&nbsp;&nbsp; 3. **DOM-based (XSS)**
+     
+
 * `Cross Site Request Forgery (CSRF)`
 
 * `Server Side Request Forgery (SSRF)`
