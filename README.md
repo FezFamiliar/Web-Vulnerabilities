@@ -4,7 +4,7 @@ In this repo I will try to cover everything about Web Vulnerabilities. There are
 
 This repo is developed gradually, i will add things along the way. I am currently working on the [hacker101](https://www.hacker101.com) CTFs.
 
-* `SQL Injection`: 
+* `SQL Injection`: Injecting malicious SQL commands to modify/alter an existing query.
 
      &nbsp;&nbsp;&nbsp; 1. **Blind SQL Injection**
      
