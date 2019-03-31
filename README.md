@@ -61,3 +61,20 @@ This repo is developed gradually, i will add things along the way. I am currentl
 ## Useful Number Theory Facts
 
 `If we have a few random multiples of n, with large probability their GCD will be equal to n`
+
+## Error Massages and what they mean
+`Moved Permanently` ----> Used when the requested URL has been moved. The response should contain in the Location header the URL where the resource now resides.
+
+`Bad Request 400` ----> Syntax Error
+
+`Unauthorized 401` ---> Username and password required
+
+`Forbidden 403` ----> The server won't allow you to visit the requested file
+
+`Not Found 404` ---> The request file doesn't exist on the server
+
+`Method Not Allowed` ---> Used when a request is made with a method that is not supported for the requested URL. The Allow header should be included in the response to tell the client what methods are allowed on the requested resource.
+
+`Gone 410` ----> Similar to 404, but the server once held the resource.
+
+`Internal Server Error 500` ----> Something has gone wrong on the server
