@@ -18,7 +18,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 
 
-* `Cross Site Scripting (XSS)` : JavaScript injection into the browser.
+* `Cross Site Scripting (XSS)`: JavaScript injection into the browser.
 
      &nbsp;&nbsp;&nbsp; 1. **Stored (XSS)**
      
