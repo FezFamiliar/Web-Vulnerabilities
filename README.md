@@ -22,7 +22,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
      &nbsp;&nbsp;&nbsp; 1. **Stored (XSS)**: The payload is stored somewhere (database, message forum, comment field, etc.) and when the      victim retrieves it, you get XSS.
      
-     &nbsp;&nbsp;&nbsp; 2. **Reflected (XSS)**
+     &nbsp;&nbsp;&nbsp; 2. **Reflected (XSS)**: The payload is immediately returned by the web app in a form of error message, search        result etc. For ex. you input `<script>alert('XSS');</script>` in the URL --> you get an alert back.
      
      &nbsp;&nbsp;&nbsp; 3. **DOM-based (XSS)**
      
