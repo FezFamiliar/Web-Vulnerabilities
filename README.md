@@ -69,6 +69,8 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 `If we have a few random multiples of n, with large probability their GCD will be equal to n`
 
+`If p is a prime number, and a is any natural number, then the following holds: a^p = a % p`
+
 ## A few HTTP status codes and what they mean
 `Moved Permanently 301` ----> Used when the requested URL has been moved. The response should contain in the Location header the URL where the resource now resides.
 
