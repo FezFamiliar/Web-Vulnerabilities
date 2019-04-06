@@ -71,6 +71,8 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 `If p is a prime number, and a is any natural number, then the following holds: a^p = a % p`
 
+`Two integers a and b are co-primes if the only positive integer that divides both of them is 1`
+
 ## A few HTTP status codes and what they mean
 `Moved Permanently 301` ----> Used when the requested URL has been moved. The response should contain in the Location header the URL where the resource now resides.
 
