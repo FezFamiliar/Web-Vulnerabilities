@@ -108,3 +108,12 @@ This repo is developed gradually, i will add things along the way. I am currentl
  `CONNECT` ----> Starts a two-way communication with a given resource. It is often used to access websites with a valid SSL(Secure Socket Layer) HTTPS. 
  
  `PATCH` ----> PATCH applies partial modifications to a resource. It is similiar to PUT but similiar requests, *may* have different effects.
+ 
+ 
+ ## A few useful tools
+ 
+ `Sqlmap` 
+ 
+ `Burp`
+ 
+ 
