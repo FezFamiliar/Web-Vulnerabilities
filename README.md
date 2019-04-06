@@ -87,3 +87,24 @@ This repo is developed gradually, i will add things along the way. I am currentl
 `Gone 410` ----> Similar to 404, but the server once held the resource.
 
 `Internal Server Error 500` ----> Something has gone wrong on the server
+
+
+## HTTP Requests
+
+ `GET` ---> Used to retrieve information from a given server via a given URL.
+ 
+ `POST` ----> Used to send data to a server (sensitive) file uploads, customer information, login credentials etc. 
+ 
+ `PUT` ----> Same as POST but multiple PUT requests always produce the same response.
+ 
+ `HEAD` -----> Same as GET but without the Header Body.
+ 
+ `OPTIONS`  -----> Describes the communication methods allowed for a given resource.
+ 
+ `TRACE` ----> Often used as a debugging mechanism, TRACE performs a loop-back test along the path to the target resource.
+ 
+ `DELETE`  ------> The HTTP DELETE request method deletes the specified resource.
+ 
+ `CONNECT` ----> Starts a two-way communication with a given resource. It is often used to access websites with a valid SSL(Secure Socket Layer) HTTPS. 
+ 
+ `PATCH` ----> PATCH applies partial modifications to a resource. It is similiar to PUT but similiar requests, *may* have different effects.
