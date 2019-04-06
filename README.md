@@ -6,11 +6,11 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 * `SQL Injection`: Injecting malicious SQL commands to modify/alter an existing query.
 
-     &nbsp;&nbsp;&nbsp; 1. **Blind SQL Injection**
+     &nbsp;&nbsp;&nbsp; 1. **Blind SQL Injection** - Asking the Database a series of True/False questions and determines the                      answer based on the applications response.
      
-     &nbsp;&nbsp;&nbsp; 2. **Error Based SQL Injection**
+     &nbsp;&nbsp;&nbsp; 2. **Error Based SQL Injection** 
      
-     &nbsp;&nbsp;&nbsp; 3. **Time Based SQL Injection**
+     &nbsp;&nbsp;&nbsp; 3. **Time Based SQL Injection** - Using sleep(x) function
      
      &nbsp;&nbsp;&nbsp; 4. **UNION Based SQL Injection**
 
