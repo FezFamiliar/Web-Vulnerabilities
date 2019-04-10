@@ -27,17 +27,17 @@ This repo is developed gradually, i will add things along the way. I am currentl
      &nbsp;&nbsp;&nbsp; 3. **DOM-based (XSS)**
      
 
-* `Cross Site Request Forgery (CSRF)`
+* `Cross Site Request Forgery (CSRF)` CSRF is an attack that tricks the victim into submitting a malicious request.
 
-* `Server Side Request Forgery (SSRF)`
+* `Server Side Request Forgery (SSRF)`SSRF is an attack that lets you read or update resources on a server.
 
 * `Path Traversal`:  Climbing out of the web root (by appending '../') and trying to gain unauthorized access to some files.
 
-* `File Inclusion`:
+* `File Inclusion`: If the application uses some kind of "dynamic file inclusion" for ex. (php include), this can lead to **code execution on the server (RCE), outputting the contents of a file, Sensitive Information Disclosure,  DOS(Denial Of Service)**
 
-     &nbsp;&nbsp;&nbsp; 1. **Remote File Inclusion (RFI)**
+     &nbsp;&nbsp;&nbsp; 1. **Remote File Inclusion (RFI)**  is the process of including remote files
 
-     &nbsp;&nbsp;&nbsp; 2. **Local File Inclusion (LFI)**
+     &nbsp;&nbsp;&nbsp; 2. **Local File Inclusion (LFI)** is the process of including files, that are already locally present on the server
      
 * `Remote Code Execution (RCE)`
 
@@ -45,9 +45,9 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 * `Sensitive Data Exposure`
 
-* `XML External Entities (XEE)`
+* `XML External Entities (XEE)` It's a kind of XML injection, an attack against an application that parses XML input. Attacks can include outputting local files.
 
-* `Lightweight Directory Access Protocol (LDAP) Injection`
+* `Lightweight Directory Access Protocol (LDAP) Injection` LDAP injection occurs when user input is not properly sanitized and then used as part of a dynamically generated LDAP filter. This results in potential manipulation of the LDAP statements performed on the LDAP server to either view, modify, or bypass authentication credentials. Its kinda rare and can be easily prevented.
 
 
 ## Recognizing Common Encryption Schemes
