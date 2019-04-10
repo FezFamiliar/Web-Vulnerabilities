@@ -50,7 +50,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
 * `Lightweight Directory Access Protocol (LDAP) Injection` LDAP injection occurs when user input is not properly sanitized and then used as part of a dynamically generated LDAP filter. This results in potential manipulation of the LDAP statements performed on the LDAP server to either view, modify, or bypass authentication credentials. Its kinda rare and can be easily prevented.
 
 
-## Recognizing Common Encryption Schemes
+## Recognizing Common Encryption/Hashing Schemes
 
 
 `b2f5ff47436671b6e533d8dc3614845d` -----> MD5 Hash
