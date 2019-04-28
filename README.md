@@ -132,7 +132,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
                
                OR
                
-               ![DNA](DNA.png)
+               ![DNA](https://github.com/FezFamiliar/Web-Vulnerabilities/blob/master/dna.png)
                
                
 
