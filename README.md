@@ -132,7 +132,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
                
                OR
                
-                              ![](https://github.com/FezFamiliar/Web-Vulnerabilities/blob/master/dna.png)
+![](https://github.com/FezFamiliar/Web-Vulnerabilities/blob/master/dna.png)
 
 You will find a DNA code cracking tool in my repo, it was built solely for this purpose.
                
