@@ -132,7 +132,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
                
                OR
                
-![alt text](https://github.com/FezFamiliar/Web-Vulnerabilities/dna.png)
+![](https://github.com/FezFamiliar/Web-Vulnerabilities/blob/master/dna.png)
                
                
 
