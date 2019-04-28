@@ -118,4 +118,23 @@ This repo is developed gradually, i will add things along the way. I am currentl
  
  `Burp`
  
+ ## Crypto
  
+ `DNA codes` --> When you have a sequence of A,T,C,Gs you're dealing with DNA encoding.
+ 
+               A - 00
+               
+               C - 10
+               
+               G - 01
+               
+               T - 11
+               
+               OR
+               
+               ![DNA](DNA.png)
+               
+               
+
+ 
+
