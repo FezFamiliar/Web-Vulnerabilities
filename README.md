@@ -118,6 +118,8 @@ This repo is developed gradually, i will add things along the way. I am currentl
  
  `Burp`
  
+ `Padbuster` --> For automating Padding Oracle attakcs, though you do need to install Perl version 5.28.1
+ 
  ## Crypto
  
  `DNA codes` --> When you have a sequence of A,T,C,Gs you're dealing with DNA encoding.
