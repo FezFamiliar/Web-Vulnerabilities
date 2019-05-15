@@ -145,7 +145,12 @@ Block Cipher modes of encryption:
 
 Electronic Code Block (ECB)
 
+![](https://github.com/FezFamiliar/Web-Vulnerabilities/blob/master/ECB_encryption.png)
 
 Cipher Block Chainig (CBC)
+
+![](https://github.com/FezFamiliar/Web-Vulnerabilities/blob/master/CBC_encryption.png)
+
+![](https://github.com/FezFamiliar/Web-Vulnerabilities/blob/master/CBC_decryption.png)
  
 
