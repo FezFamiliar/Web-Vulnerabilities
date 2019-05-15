@@ -118,7 +118,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
  
  `Burp` --> A very handy proxy tool that can be used for manipulating HTTP requests, brute forcing login systems and much more..
  
- `Padbuster` --> For automating Padding Oracle attakcs, though you do need to install Perl version 5.28.1
+ `Padbuster` --> For automating Padding Oracle attakcs, encrypting AES payloads etc. You do need to install Perl version 5.28.1
  
  ## Crypto
  
