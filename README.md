@@ -141,15 +141,21 @@ This repo is developed gradually, i will add things along the way. I am currentl
 You will find a DNA code cracking tool in my repo, it was built solely for this purpose.
                
                
-Block Cipher modes of encryption: 
+## Block Cipher modes of encryption: 
 
 Electronic Code Block (ECB)
+
+     In ECB every block is encrypted/decrypted seperately.
 
 ![](https://github.com/FezFamiliar/Web-Vulnerabilities/blob/master/ECB_encryption.png)
 
 Cipher Block Chainig (CBC)
 
+     In CBC encryption the first block is initially XOR-ed with an IV (Initialisation Vector) then encrypted and then the next block is      XOR-ed with this encrypted value.  So every nth block is first XOR with the n-1th block then encrypted, with the exception of the        first. 
+
 ![](https://github.com/FezFamiliar/Web-Vulnerabilities/blob/master/CBC_encryption.png)
+
+     In CBC decryption the first block is decrypted and then XOR-ed with an IV (Initialisation Vector) to get the plaintext. Every nth        ciphertext block is first decrypted and then XOR-ed with the previous ciphertext block to get the plaintext.
 
 ![](https://github.com/FezFamiliar/Web-Vulnerabilities/blob/master/CBC_decryption.png)
  
