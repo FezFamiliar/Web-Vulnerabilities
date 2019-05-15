@@ -174,6 +174,9 @@ An important concept to understand in block ciphers is **padding**. In block cip
      
 An important note here is that you always have padding. Even when you don't need it.
  
+     An 8 byte block with equal padding looks like this: T U T O R I A L \x08 \x08 \x08 \x08 \x08 \x08 \x08 \x08
+
+Why does it need padding even if it its equally divisible? This is necessary so the deciphering algorithm can determine with certainty whether the last byte of the last block is a pad byte indicating the number of padding bytes added or part of the plaintext message.
  
  
 
