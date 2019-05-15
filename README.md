@@ -63,6 +63,8 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 `%2Fhash%2Fge%20%20%2Bner%20ate%20` ----> URL Encoding
 
+`9jqo^BlbD-BleB1DJ+*+F(f,q/0JhKF<GL>Cj@.4Gp$d7F!,L7@<6@)/0JDEF<G%<+EV:2F!,O<DJ+*.@<*K0@<6L(Df-\0Ec5e;DffZ(EZee.Bl.9pF"AGXBPCsi+DGm>@3BB/F*&OCAfu2/AKYi(DIb:@FD,*)+C]U=@3BN#EcYf8ATD3s@q?d$AftVqCh[NqF<G:8+EV:.+Cf>-FD5W8ARlolDIal(DId<j@<?3r@:F%a+D58'ATD4$Bl@l3De:,-DJs8ARoFb/0JMK@qB4^F!,R<AKZ&-DfTqBG%G>uD.RTpAKYo'+CT/5+Cei#DII?(E,9)oF*2M7/c` --> Base85 Encoding
+
 
 
 ## Useful Number Theory Facts
@@ -139,6 +141,11 @@ This repo is developed gradually, i will add things along the way. I am currentl
 You will find a DNA code cracking tool in my repo, it was built solely for this purpose.
                
                
+Block Cipher modes of encryption: 
 
+Electronic Code Block (ECB)
+
+
+Cipher Block Chainig (CBC)
  
 
