@@ -164,6 +164,13 @@ In CBC encryption the first block is initially XOR-ed with an IV (Initialisation
 
 
 ![](https://github.com/FezFamiliar/Web-Vulnerabilities/blob/master/CBC_decryption.png)
+
+
+
+An important concept to understand in block ciphers is **padding**. In block ciphers, text is encrypted by dividing the inital message in blocks 8 , 16, etc. byte lengths. What happends when your message isn't exactly 16 bytes long? Well, it gets **padded**. So how does it manifest itself? Easy. If you need 3 bytes of padding you get padded **3 bytes of 3**, if you need 1 byte of padding, you get padded **1 byte of 1** and so on. Example: (128-bit AES)
+
+     The word "Computer" consists of 8 bytes, so it needs another 8 bytes of padding, it will be C O M P U T E R \x08 \x08
+     \x08 \x08 \x08 \x08 \x08\x08         
  
  
  
