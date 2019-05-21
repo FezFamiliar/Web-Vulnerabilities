@@ -75,7 +75,32 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 `Two integers a and b are co-primes if the only positive integer that divides both of them is 1`
 
+## Common Port numbers
+ `20/21` - File Transfer Protocol (FTP)\
+ 
+ `22` - Secure Shell (SSH)
+ 
+ `23` - Telnet
+ 
+ `80` - Hyper Text Transfer Protocol (HTTP)
+ 
+ `119` - Network News Transfer Protocol (NNTP)
+ 
+ `123` - Network Time Protocol (NTP)
+ 
+ `389` - Lightweight Directory Access Protocol (LDAP)
+ 
+ `443` - HTTPS
+ 
+ `554` - Real Time Streaming Protocol (RTSP)
+ 
+ `25/465/587` - Simple Mail Transfer Protocol (SMTP)
+ 
+ `8080` - HTTP Proxy
+ 
+ ``
 ## A few HTTP status codes and what they mean
+
 `Moved Permanently 301` ----> Used when the requested URL has been moved. The response should contain in the Location header the URL where the resource now resides.
 
 `Bad Request 400` ----> Syntax Error
