@@ -98,7 +98,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
  
  `8080` - HTTP Proxy
  
- ``
+ 
 ## A few HTTP status codes and what they mean
 
 `Moved Permanently 301` ----> Used when the requested URL has been moved. The response should contain in the Location header the URL where the resource now resides.
