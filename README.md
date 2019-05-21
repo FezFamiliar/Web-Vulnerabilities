@@ -12,9 +12,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
      
      &nbsp;&nbsp;&nbsp; 3. **Time Based SQL Injection** - Using sleep(x) function
      
-     &nbsp;&nbsp;&nbsp; 4. **UNION Based SQL Injection**
-
-
+     &nbsp;&nbsp;&nbsp; 4. **UNION Based SQL Injection** for example: id=-4 (a non existent ID) UNION SELECT ...; Because the id doesn't    exist it will execute the union
 
 
 
