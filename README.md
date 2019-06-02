@@ -137,13 +137,17 @@ This repo is developed gradually, i will add things along the way. I am currentl
  `PATCH` ----> PATCH applies partial modifications to a resource. It is similiar to PUT but similiar requests, *may* have different effects.
  
  
- ## A few useful tools
+ ## A few useful tools/libraries
  
  `Sqlmap` --> For automating SQL injections, written in Python.
  
  `Burp` --> A very handy proxy tool that can be used for manipulating HTTP requests, brute forcing login systems and much more..
  
  `Padbuster` --> For automating Padding Oracle attakcs, encrypting AES payloads etc. You do need to install Perl version 5.28.1
+ 
+ `HxD` --> A free HEX editor
+ 
+ `rayon for rust` ---> a very good and easy to use paralelization library for Rust.
  
  ## Crypto
  
