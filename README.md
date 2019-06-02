@@ -43,7 +43,7 @@ This repo is developed gradually, i will add things along the way. I am currentl
 
 * `Sensitive Data Exposure`
 
-* `XML External Entities (XEE)` It's a kind of XML injection, an attack against an application that parses XML input. Attacks can include outputting local files.
+* `XML External Entities (XEE)` It's a kind of XML injection, an attack against an application that parses XML input. Attacks can include outputting local files. ex: `<%3fxml+version%3d"1.0"+encoding%3d"UTF-8"%3f><!DOCTYPE+foo+[<!ELEMENT+foo+ANY><!ENTITY+xxe+SYSTEM+"file%3a///etc/passwd">]><config><location>%26xxe%3b</location></config>`
 
 * `Lightweight Directory Access Protocol (LDAP) Injection` LDAP injection occurs when user input is not properly sanitized and then used as part of a dynamically generated LDAP filter. This results in potential manipulation of the LDAP statements performed on the LDAP server to either view, modify, or bypass authentication credentials. Its kinda rare and can be easily prevented.
 
