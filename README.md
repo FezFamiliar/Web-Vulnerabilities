@@ -163,6 +163,10 @@ This repo is developed gradually, i will add things along the way. I am currentl
   Mono-alphabetic substitution: every letter is substituted **once**.
  Few examples: ceaser cipher, substitution cipher,rot13, shift cipher,atbash cipher etc. Very weak and susceptible to frequency analysis.
 
+   These ciphers are very easily cracked via brute-force and/or frequency analysis.
+   Multiple rounds of Caeser cipher won't do much because the keys will always be in the range of 0-26. Encrypting a message M
+   First by 3 and then by 9 is equivalent of one round of ceaser encryption with key=12. 
+
   Poly-alphabetic substitution: Every letter is su stituted **multiple** times.
   Examples: vigenère cipher 
 
