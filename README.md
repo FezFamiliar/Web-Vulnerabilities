@@ -148,8 +148,34 @@ This repo is developed gradually, i will add things along the way. I am currentl
  `HxD` --> A free HEX editor
  
  `rayon for rust` ---> a very good and easy to use paralelization library for Rust.
+  
+  https://github.com/KishanBagaria/padding-oracle-attacker  ---> breaking AES in CBC mode faster than padbuster
+
+ `quipqiup.com` --> tool for breaking substitution ciphers
+
  
- ## Crypto
+ 
+ ## Crypto 
+
+
+    SUBSTITUTION CIPHERS: Every letter is substituted with another letter from the alphabet.
+
+  Mono-alphabetic substitution: every letter is substituted **once**.
+ Few examples: ceaser cipher, substitution cipher,rot13, shift cipher,atbash cipher etc. Very weak and susceptible to frequency analysis.
+
+  Poly-alphabetic substitution: Every letter is su stituted **multiple** times.
+  Examples: vigenère cipher 
+
+
+
+
+
+
+
+
+
+
+
  
  `DNA codes` --> When you have a sequence of A,T,C,Gs you're dealing with DNA encoding.
  
