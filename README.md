@@ -245,8 +245,14 @@ Why does it need padding even if it its equally divisible? This is necessary so 
  
  The basic idea behind RSA is this:
   STEP 1. select two incredibly large prime numbers: p,q. Compute n = pq
+  
+  
   STEP 2. Compute phi function (euler's totient function) which is phi = (p - 1) * (q - 1)
+  
+  
   STEP 3. Select e (exponent) so that 1 < e < n AND gcd(e,phi(n)) = 1. Most commonly used numbers are 3, 65537
+  
+  
   STEP 4. Determine d as a modular inverse of e mod phi(n) that is, solve the equation d*e = 1 mod phi(n)
   
   public key pair(n,e)-private key (d)
