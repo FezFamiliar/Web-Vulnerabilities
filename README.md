@@ -237,3 +237,29 @@ Why does it need padding even if it its equally divisible? This is necessary so 
  
  
 
+## RSA
+
+ RSA is probably the most popular public-key crypto system out there, there aren't alot of these systems so when people hear "public-crypto" they most probably think RSA. The reason why there aren't so many of these algorithms out there is because these are based on hard and complex mathematics and the maths have to be on point and there's no room for error, coming up with your own public key cryptosystem is nearly impossible.
+ 
+ It uses 2 keys, 1 for encryption, which is public and 1 for decryption which is kept private. These keys are mathematically linked in a very special way so that one can be publicised and one cannot and still be secure, think about it, we are making one key secure, if you could somehow derive the private key from the public one that would obviously be catastrophic.
+ 
+ The basic idea behind RSA is this:
+  STEP 1. select two incredibly large prime numbers: p,q. Compute n = pq
+  STEP 2. Compute phi function (euler's totient function) which is phi = (p - 1) * (q - 1)
+  STEP 3. Select e (exponent) so that 1 < e < n AND gcd(e,phi(n)) = 1. Most commonly used numbers are 3, 65537
+  STEP 4. Determine d as a modular inverse of e mod phi(n) that is, solve the equation d*e = 1 mod phi(n)
+  
+  public key pair(n,e)-private key (d)
+  
+  **encryption**
+     ciphertext = plaintext^e mod n
+     
+ **decryption**
+     plaintext = ciphertexy ^ d mod n
+  
+  The thing you have to remember is this, all RSA's security relies on factoring the n. If you can do it, you break RSA.
+  
+  Websites that factor commonly used n's: https://wwww.factordb.com, https://www.alpertron.com.ar/ECM.HTM
+  
+  
+  
