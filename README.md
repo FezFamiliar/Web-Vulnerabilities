@@ -244,6 +244,8 @@ Why does it need padding even if it its equally divisible? This is necessary so 
  It uses 2 keys, 1 for encryption, which is public and 1 for decryption which is kept private. These keys are mathematically linked in a very special way so that one can be publicised and one cannot and still be secure, think about it, we are making one key secure, if you could somehow derive the private key from the public one that would obviously be catastrophic.
  
  The basic idea behind RSA is this:
+ 
+ 
   STEP 1. select two incredibly large prime numbers: p,q. Compute n = pq
   
   
