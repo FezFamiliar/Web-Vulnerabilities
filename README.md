@@ -271,10 +271,10 @@ Why does it need padding even if it its equally divisible? This is necessary so 
   
   You should always try to factor n with these websites first, then move on other RSA attacks:
   
- Multi Prime RSA:  totient = (p1 - 1) * (p2 - 1) * (p3 - 1) * (p4 - 1) ...
+ Multi Prime RSA:  ```totient = (p1 - 1) * (p2 - 1) * (p3 - 1) * (p4 - 1) ...```
  
  if e = 1 then no encryption occurs, and the plaintext is equal to the ciphertext.
  
- if e = 3 try the cube root attack. 
+ if e = 3, you can try the **cube root attack**. Take the cube root of the ciphertext. 
   
-  
+ 
